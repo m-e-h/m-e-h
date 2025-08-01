@@ -43,10 +43,6 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23e85343.svg?style=for-the-badge&logo=figma&logoColor=white) 
  
 ![MySQL](https://img.shields.io/badge/mysql-%233e6e93.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23699eca.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23ff4438.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23282661.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%231D63ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23232b37.svg?style=for-the-badge&logo=task&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23fcb42f.svg?style=for-the-badge&logo=Cloudflare&logoColor=black) 
